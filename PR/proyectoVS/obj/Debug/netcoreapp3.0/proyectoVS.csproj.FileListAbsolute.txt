@@ -1,0 +1,11 @@
+F:\DAM\1º DAM\PR\proyectoVS\bin\Debug\netcoreapp3.0\proyectoVS.exe
+F:\DAM\1º DAM\PR\proyectoVS\bin\Debug\netcoreapp3.0\proyectoVS.deps.json
+F:\DAM\1º DAM\PR\proyectoVS\bin\Debug\netcoreapp3.0\proyectoVS.runtimeconfig.json
+F:\DAM\1º DAM\PR\proyectoVS\bin\Debug\netcoreapp3.0\proyectoVS.runtimeconfig.dev.json
+F:\DAM\1º DAM\PR\proyectoVS\bin\Debug\netcoreapp3.0\proyectoVS.dll
+F:\DAM\1º DAM\PR\proyectoVS\bin\Debug\netcoreapp3.0\proyectoVS.pdb
+F:\DAM\1º DAM\PR\proyectoVS\obj\Debug\netcoreapp3.0\proyectoVS.csprojAssemblyReference.cache
+F:\DAM\1º DAM\PR\proyectoVS\obj\Debug\netcoreapp3.0\proyectoVS.AssemblyInfoInputs.cache
+F:\DAM\1º DAM\PR\proyectoVS\obj\Debug\netcoreapp3.0\proyectoVS.AssemblyInfo.cs
+F:\DAM\1º DAM\PR\proyectoVS\obj\Debug\netcoreapp3.0\proyectoVS.dll
+F:\DAM\1º DAM\PR\proyectoVS\obj\Debug\netcoreapp3.0\proyectoVS.pdb
